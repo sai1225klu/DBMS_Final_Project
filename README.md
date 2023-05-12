@@ -22,3 +22,6 @@ one is with full executed codes(file name: dbms_final_codes)
 second file is with full executed codes aliong with output screen shots and explanation of codes.(file name: dbsm_final_project_practicalpart)
 Third file is the dataset which i used for this project (file name: worldcities.csv) and the link for this csv file
 https://simplemaps.com/data/world-cities
+
+
+To View the second file (file name: dbsm_final_project_practicalpart) which i attached here, to view that file please use the option view raw and download the file to see all the executed codes along with output
