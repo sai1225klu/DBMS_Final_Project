@@ -17,6 +17,8 @@ database that supports spatial data types, like PostgreSQL (PostGIS).
 
 This project is done in postgresql.
 
-I'm attching two files. 
+I'm attching three files. 
 one is with full executed codes(file name: dbms_final_codes)
 second file is with full executed codes aliong with output screen shots and explanation of codes.(file name: dbsm_final_project_practicalpart)
+Third file is the dataset which i used for this project (file name: worldcities.csv) and the link for this csv file
+https://simplemaps.com/data/world-cities
